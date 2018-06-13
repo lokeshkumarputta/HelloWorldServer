@@ -10,6 +10,7 @@ public class HelloWorldServerApplication {
 
 	public static void main(String[] args) {
 		System.out.println("In Helloworld in server ");
+		
 		SpringApplication.run(HelloWorldServerApplication.class, args);
 	}
 }
